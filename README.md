@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0494-target-sum) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1524-string-matching-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2145-grid-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2145-grid-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2145-grid-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2145-grid-game) |
 | [3639-zero-array-transformation-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [2145-grid-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2145-grid-game) |
 ## Backtracking
 |  |
 | ------- |
