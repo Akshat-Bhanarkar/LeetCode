@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0494-target-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0494-target-sum) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0494-target-sum) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
