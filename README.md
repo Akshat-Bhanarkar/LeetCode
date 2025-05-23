@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3324-split-the-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3324-split-the-array) |
 | [3639-zero-array-transformation-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## String
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0807-custom-sort-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0807-custom-sort-string) |
+| [3324-split-the-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3324-split-the-array) |
 ## Tree
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2509-minimize-xor](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2509-minimize-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Counting
+|  |
+| ------- |
+| [3324-split-the-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3324-split-the-array) |
 <!---LeetCode Topics End-->
