@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0492-construct-the-rectangle](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0903-implement-rand10-using-rand7](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
