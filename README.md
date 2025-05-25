@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0485-max-consecutive-ones](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0494-target-sum) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1524-string-matching-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1524-string-matching-in-an-array) |
