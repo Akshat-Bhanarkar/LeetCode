@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Matrix
 |  |
 | ------- |
