@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0495-teemo-attacking) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1524-string-matching-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1876-map-of-highest-peak](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2145-grid-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1876-map-of-highest-peak](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0463-island-perimeter) |
+| [1876-map-of-highest-peak](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2145-grid-game) |
 ## Backtracking
 |  |
