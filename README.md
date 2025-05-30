@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0482-license-key-formatting) |
 | [0807-custom-sort-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0455-assign-cookies) |
+| [1502-construct-k-palindrome-strings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2509-minimize-xor](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2509-minimize-xor) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0807-custom-sort-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3324-split-the-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3324-split-the-array) |
