@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
