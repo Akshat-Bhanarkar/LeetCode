@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0461-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
