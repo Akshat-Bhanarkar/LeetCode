@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
@@ -340,12 +342,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3647-zero-array-transformation-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
