@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0482-license-key-formatting) |
 | [0807-custom-sort-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0807-custom-sort-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0494-target-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0494-target-sum) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0456-132-pattern](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0456-132-pattern) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
