@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0952-word-subsets) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0945-snakes-and-ladders](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0463-island-perimeter) |
 | [0945-snakes-and-ladders](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3647-zero-array-transformation-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Linked List
 |  |
@@ -338,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
