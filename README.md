@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3324-split-the-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0475-heaters) |
 | [0807-custom-sort-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0807-custom-sort-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Monotonic Queue
