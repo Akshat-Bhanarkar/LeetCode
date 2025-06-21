@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0494-target-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0494-target-sum) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0455-assign-cookies) |
 | [1502-construct-k-palindrome-strings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
