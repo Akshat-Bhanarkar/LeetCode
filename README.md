@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0475-heaters) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
