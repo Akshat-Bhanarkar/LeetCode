@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0075-sort-colors) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0135-candy) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0475-heaters) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0475-heaters) |
