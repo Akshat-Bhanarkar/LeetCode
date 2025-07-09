@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0495-teemo-attacking) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0733-flood-fill) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0945-snakes-and-ladders](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0807-custom-sort-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0807-custom-sort-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0903-implement-rand10-using-rand7](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
