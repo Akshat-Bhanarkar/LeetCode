@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0075-sort-colors) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0733-flood-fill) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0495-teemo-attacking) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
