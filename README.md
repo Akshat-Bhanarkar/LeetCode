@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
