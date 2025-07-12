@@ -1,15 +1,31 @@
 class Solution {
-    public int[] dailyTemperatures(int[] temps) {
-        int[] results = new int[temps.length];
-        Stack<Integer> stack = new Stack<>();
-        /// UPVOTE !
-        for (int i = 0; i < temps.length; i++) {
-            while (!stack.isEmpty() && temps[stack.peek()] < temps[i]) {
-                results[stack.peek()] = i - stack.pop();
+public:
+    vector<int> dailyTemperatures( vector<int>& temperatures) {
+        deque<int> deque;
+        
+        vector<int> res(temperatures.size(), 0);
+
+        for (int i = temperatures.size() - 1; i >= 0; --i) {
+            if (deque.empty()) {
+                deque.push_front(i);
+                res[i] = 0;
+            } else {
+                while (!deque.empty() && temperatures[i] >= temperatures[deque.front()]) {
+                    deque.pop_front();
+                }
+
+                if (deque.empty()) {
+                    res[i] = 0;
+                } else {
+                    res[i] = deque.front() - i;
+                }
+
+                deque.push_front(i);
             }
-            stack.push(i);
         }
 
-        return results;
+        return res;
     }
-}
+}; 
+
+
