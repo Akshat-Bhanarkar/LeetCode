@@ -1,31 +1,23 @@
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
-    vector<int> dailyTemperatures( vector<int>& temperatures) {
-        deque<int> deque;
-        
-        vector<int> res(temperatures.size(), 0);
+    vector<int> dailyTemperatures(vector<int>& temperatures) {
+        int n = temperatures.size();
+        vector<int> answer(n, 0);
 
-        for (int i = temperatures.size() - 1; i >= 0; --i) {
-            if (deque.empty()) {
-                deque.push_front(i);
-                res[i] = 0;
-            } else {
-                while (!deque.empty() && temperatures[i] >= temperatures[deque.front()]) {
-                    deque.pop_front();
-                }
-
-                if (deque.empty()) {
-                    res[i] = 0;
-                } else {
-                    res[i] = deque.front() - i;
-                }
-
-                deque.push_front(i);
+        for (int i = n - 2; i >= 0; --i) {
+            int next = i + 1;
+            while (next < n && temperatures[i] >= temperatures[next]) {
+                if (answer[next] == 0) break; // No warmer day ahead
+                next += answer[next];       // Skip ahead using jump table
+            }
+            if (next < n && temperatures[i] < temperatures[next]) {
+                answer[i] = next - i; // Calculate days to the next warmer day
             }
         }
 
-        return res;
+        return answer;
     }
-}; 
-
-
+};
