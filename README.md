@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0455-assign-cookies) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0475-heaters) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0621-task-scheduler) |
 | [1396-count-servers-that-communicate](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -594,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -634,4 +640,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
