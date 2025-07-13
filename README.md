@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0020-valid-parentheses) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0062-unique-paths) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
