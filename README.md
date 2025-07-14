@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0903-implement-rand10-using-rand7](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
