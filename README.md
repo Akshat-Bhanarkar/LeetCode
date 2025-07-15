@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0070-climbing-stairs) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0050-powx-n) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Union Find
