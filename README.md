@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0952-word-subsets) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0492-construct-the-rectangle) |
+| [0556-next-greater-element-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0903-implement-rand10-using-rand7](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
