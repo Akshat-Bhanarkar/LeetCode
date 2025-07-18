@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0455-assign-cookies) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
