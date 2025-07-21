@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0742-to-lower-case) |
 | [0807-custom-sort-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0807-custom-sort-string) |
 | [0952-word-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0952-word-subsets) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
