@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2465-shifting-letters-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0733-flood-fill) |
 | [1396-count-servers-that-communicate](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2509-minimize-xor](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
