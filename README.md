@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0682-baseball-game) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2479-meeting-rooms-iii) |
