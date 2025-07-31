@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0861-flipping-an-image) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0542-01-matrix) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0861-flipping-an-image) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
