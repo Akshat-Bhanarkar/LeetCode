@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0810-valid-tic-tac-toe-state](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0810-valid-tic-tac-toe-state](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0861-flipping-an-image](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1396-count-servers-that-communicate) |
