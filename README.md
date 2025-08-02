@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0952-word-subsets) |
 | [1041-available-captures-for-rook](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1396-count-servers-that-communicate](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0807-custom-sort-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0807-custom-sort-string) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0903-implement-rand10-using-rand7](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1041-available-captures-for-rook](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1041-available-captures-for-rook) |
+| [1094-matrix-cells-in-distance-order](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1396-count-servers-that-communicate](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1094-matrix-cells-in-distance-order](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Stack
 |  |
