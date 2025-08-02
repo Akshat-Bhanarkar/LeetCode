@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2689-rearranging-fruits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3324-split-the-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3324-split-the-array) |
