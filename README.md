@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0742-to-lower-case) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0782-jewels-and-stones) |
