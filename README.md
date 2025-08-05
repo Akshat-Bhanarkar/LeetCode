@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0279-perfect-squares) |
+| [0390-elimination-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0050-powx-n) |
+| [0390-elimination-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0390-elimination-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Union Find
