@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0338-counting-bits) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0101-symmetric-tree) |
+| [0279-perfect-squares](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
