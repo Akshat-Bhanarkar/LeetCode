@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0482-license-key-formatting) |
+| [0520-detect-capital](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0556-next-greater-element-iii) |
