@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0724-find-pivot-index](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
