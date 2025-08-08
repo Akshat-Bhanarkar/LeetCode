@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0542-01-matrix) |
+| [0561-array-partition](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0621-task-scheduler) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0853-most-profit-assigning-work](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -881,4 +884,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
