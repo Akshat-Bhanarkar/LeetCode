@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0826-soup-servings) |
 | [0903-implement-rand10-using-rand7](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
