@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0807-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0853-most-profit-assigning-work) |
+| [0900-reordered-power-of-2](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1013-fibonacci-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0807-custom-sort-string) |
+| [0900-reordered-power-of-2](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0621-task-scheduler) |
+| [0900-reordered-power-of-2](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1396-count-servers-that-communicate](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -819,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
