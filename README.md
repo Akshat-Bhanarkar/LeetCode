@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
