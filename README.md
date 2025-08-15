@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0827-expressive-words](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0827-expressive-words) |
 | [0830-largest-triangle-area](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0831-largest-sum-of-averages](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0841-shortest-distance-to-a-character](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0542-01-matrix) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0826-soup-servings) |
+| [0831-largest-sum-of-averages](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0724-find-pivot-index) |
+| [0831-largest-sum-of-averages](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0831-largest-sum-of-averages) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
