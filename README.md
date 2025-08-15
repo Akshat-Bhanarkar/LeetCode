@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-valid-tic-tac-toe-state](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0827-expressive-words](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0827-expressive-words) |
+| [0830-largest-triangle-area](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0853-most-profit-assigning-work) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-global-and-local-inversions](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0790-global-and-local-inversions) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1013-fibonacci-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1013-fibonacci-number) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1094-matrix-cells-in-distance-order) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Stack
