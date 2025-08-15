@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0390-elimination-game) |
 | [0441-arranging-coins](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
