@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0661-image-smoother) |
+| [0679-24-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0724-find-pivot-index) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0507-perfect-number) |
 | [0556-next-greater-element-iii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0679-24-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0790-global-and-local-inversions](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0790-global-and-local-inversions) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0494-target-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## String Matching
