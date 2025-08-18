@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0826-soup-servings) |
 | [0831-largest-sum-of-averages](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0831-largest-sum-of-averages) |
+| [0867-new-21-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0867-new-21-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 | [1013-fibonacci-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1013-fibonacci-number) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0867-new-21-game) |
 | [0903-implement-rand10-using-rand7](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0903-implement-rand10-using-rand7) |
 ## Simulation
 |  |
