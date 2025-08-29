@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
