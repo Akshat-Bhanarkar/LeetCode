@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3462-vowels-game-in-a-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -988,4 +991,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0561-array-partition) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
