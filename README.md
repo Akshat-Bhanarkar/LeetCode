@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0397-integer-replacement) |
 | [0494-target-sum](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0542-01-matrix) |
 | [0804-rotated-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0804-rotated-digits) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0321-create-maximum-number) |
+| [0397-integer-replacement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0455-assign-cookies) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0477-total-hamming-distance) |
@@ -944,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Akshat-Bhanarkar/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
